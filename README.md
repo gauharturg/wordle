@@ -1,6 +1,6 @@
 # Wordle Solver
 
-This project is an automated Wordle solver that intelligently guesses words until it finds the correct answer. It uses feedback from each guess to refine future guesses, similar to the Wordle game.
+This project is an automated Wordle solver that intelligently guesses words until it finds the correct answer. It uses feedback from each guess to refine future guesses, similar to the Wordle game. Refer to the file random_guess.py (wordleAPI.py is just to show the previous work)
 
 ## Features
 
